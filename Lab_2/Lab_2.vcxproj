@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Lab_2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Users\uuser\Desktop\Отчет.DOCX" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
